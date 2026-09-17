@@ -560,4 +560,4 @@ command-line application while practicing:
 The implementation intentionally uses only Python's standard
 library and keeps the project simple enough to understand and
 modify.
-python main.py --help
+
